@@ -1,5 +1,3 @@
-# ScaryBugsDemo
-一个Mac端app Demo
 
 # CocoaPods版本升级
 
